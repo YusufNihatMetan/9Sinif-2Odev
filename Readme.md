@@ -20,10 +20,10 @@ a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde nokta
 **Cevap:**
 
 b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve bilgisayar ile nasıl grafik çizildiğini anlayın. Bilgisayar kendi grafiğini çizerken ileri düzeyde matematik hesaplamalar yapıyor ve en iyi doğruyu çiziyor (Sizin bunu bilmenize gerek yok!)  Bilgisayarla eğim bulmak için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
-**Cevap:** 
+**Cevap:** **Hocam vallaha hiç bir şey anlamadım**
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:**
+**Cevap:** **çünkü yayın yerinde kalması için bir kuvvet gerekli yoksa yay uzamak isterdi git gide(benim fikrim)**
 
 
 
@@ -31,18 +31,18 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 # Bölüm 2
 3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun? (Sizin yönünüze göre)
-**Cevap**: (Soldaki), (Ortadaki), (Sağdaki)
-4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
-**Cevap**:
+**Cevap**: (Soldaki), (Ortadaki), (Sağdaki) **sol**
+4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?  
+**Cevap**:**21.0,evet**
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|          |     |
-|          |     |
-|        |     |
-|        |    |
-|        |     |
+|     1.59N     |  0.01m   |
+|     3.48N     |  0.015m |
+|     6.06N   |    0.02m |
+|    9.95N    |    0.03m |
+|      15.68N  |    0.04m |
 
 6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
 
